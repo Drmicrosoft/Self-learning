@@ -1,0 +1,77 @@
+I’ve never been that keen on studying before an exam. I rarely study for more than a half hour, even for big final exams worth more than half my grade. When I do study, I usually just skim over the material and do a few practice questions. For some of my math classes I have yet to do a single practice question for homework. Most people study by cramming in as much information before walking into the test room, whereas I consider studying to be no more than a light stretch before running.
+
+Despite what some might point out as horrible studying habits, I’ve done very well for myself in school. I had the second highest marks in my high-school class with honors all four years. My first term university marks were two A+’s and an A, for calculus, computer science and ancient Asian history, all courses with high failure rates. I also won a national chemistry exam for a three province wide district that I didn’t even realize I was writing until I was called in and told to get started.
+
+It’s very easy to look at my successes and apparent lack of effort and quickly deem that it is an innate gift, impossible to replicate. I think this is bullshit. I believe that myself and anyone else who can produce these results simply has a more effective strategy for learning new material. With my system of learning, you only have to hear or read something once to learn it. Best of all I believe it is a system that can be learned.
+
+Webs and Boxes
+
+The system I use for learning I’m going to call holistic learning. But in order to fully appreciate what holistic learning is, you need to take a look at it’s opposite – compartmentalized learning. Virtually all learning is done somewhere between completely holistic and completely compartmentalized learning. Although people rarely sit exactly on one extreme, people who are close towards learning through compartments will need to cram and study for hours just to hope for a pass where people who lean more to holistic learning can often breeze through heavy course loads.
+
+People who learn through compartments, try to organize their mind like a filing cabinet. Learn a new chemical equation, these people will try to file that information. Hopefully they will file it near some other chemical equations so that they will stumble upon it when they need to on the exam. Compartmentalized learners make distinct file drawers for science, math, history and language arts. Placing all the things they know into little boxes.
+
+Holistic learning takes an opposite approach. Learning holistically is not done by trying to remember information by using repetition and force. Holistic learners instead organize their minds like spider webs. Every piece of information is a single point. That point is then consciously related to tons of other points on the web. There are no boxes with this form of learning. Science becomes literature which becomes economics. Subject distinctions may help when going to class, but a holistic learner never sees things in a box.
+
+When it comes time for exams (or any practical application for your knowledge) compartmentalized learners have to hope that they pounded the information hard enough into their head so it might come up during the exam. Holistic learners do the opposite. Holistic learners only need to start at one point on their web, but they can use that web to feel around and find all the associated information they need.
+
+The chemistry exam I won for three provinces I wasn’t even taught over half the information on the test. Because my web was so heavily interrelated, even when a node on the web was missing I had a good chance at guessing at what it contained. This meant that on a multiple choice test I could only understand a third of what the question asked and still be able to eliminate answers. Winning a test that you don’t actually know half the information on it sounds impossible, but not to a holistic learner.
+
+Compartmentalized learning is an exercise in insanity. A comparable strategy would be if the users of the web didn’t hyperlink anything. So to find any information you just had to keep typing addresses into your browser, hoping that it would pop up. Studying for these learners is akin to setting up thousands of domain names that all lead to the same information, so that you will hopefully get to the right place by just guessing enough. Not only is it ineffective when exam time comes, it takes hours to put in place.
+
+Very few people are purely compartmental learners. For most people they manage webs of information holistically to a certain degree. But unfortunately, their webs simply aren’t interlinked enough. Each subject usually has a fairly distinct web and each unit of information has only one or two associations. Like trying to surf the net when each page only has one or two outgoing links. Possible, but far from effective.
+
+If you look at the structure of your brain, it will become immediately obvious why compartmentalized learning, organized like a computers file folder system, doesn’t work. Your brain is itself a web of neurons. Creating hundreds of associations between ideas means that no matter where you start thinking, you can eventually get to the piece of information you need. If a road is closed for some reason, you can take one of the hundreds of other side streets.
+
+Maximizing Your Holistic Learning
+
+Understanding holistic learning is one thing, putting it into practice is another. I’ve been learning very close to the extreme of complete holistic learning for so long that my web is pretty well interconnected. But if you haven’t been really interweaving your web, then the best way to improve your ability to learn is to start now.
+
+Here are a few suggestions for how you can better interlink your web:
+
+1) Ask Questions
+
+When you are learning something, you can make associations simply by asking yourself questions. How does this information relate to what we’ve been studying? How does this information relate to other things I’ve already learned? How does it relate to other subjects, stories or observations?
+
+Be creative and try to find several different points of reference for every idea you learn. Figure out not only what things are similar too, but why they are what they are. As this becomes a habit, you’ll find that you automatically remember information because it fits into your web of understanding. Ask yourself after you hear something whether you “get it”. If you don’t go back and ask yourself more questions for how it fits it.
+
+2) Visualize and Diagram
+
+One of the best ways to begin practicing holistic learning is to start drawing a diagram that associates the information you have learned. Better than taking notes during a lecture is drawing a picture for how what you are learning relates to anything else you have already learned. Once you get good at this you will be able to visualize the diagram before it is drawn, but start drawing to get practice.
+
+When I try to understand economics it often helps me to visualize the relationship between different factors. I view cycles of money, GDP or price levels as a structure that combines all the different elements. If you can’t immediately create vivid pictures of the information, try drawing them first.
+
+3) Use Metaphors
+
+Anything you are learning should be immediately translated into a metaphor you already understand. When reading Niccolo Machiavelli’s The Prince, I understood his writings by relating all the examples of statecraft and war he offered to areas of business and social relationships which I already understood.
+
+While visualization creates tight webs that interlink within a subject, metaphors create broad webs that link completely different ideas. You might not realize how that blog article on fitness you read two weeks ago relates to math, but through making metaphors you have a huge reserve of information available to you when you need it.
+
+4) Feel It
+
+Another technique I’ve experimented with to improve my holistic learning is feeling through ideas. This one is a little more difficult to explain, but the basic idea is that instead of associating an idea to a picture or another metaphor, you associate it with a feeling. I’m a visual learner, so I’ve found it to be ineffective for large pieces of data, but it is really helpful for data that is otherwise hard to relate.
+
+I used this process to easily remember the process of getting the determinant of a matrix. For you math buffs, you probably already know that the determinant of a 2×2 matrix is basically the left diagonal minus the right diagonal. I was able to associate this information into my web through a feeling by imagining what it would be like to move my hands through each diagonal on the matrix. This is an incredibly simplified example, but feeling ideas can be very useful.
+
+5) When in Doubt, Link or Peg It
+
+Questions, visualization, metaphors and feeling should cover about 99% of the information you need to learn. They are the most effective ways to interlink ideas. But if you still need to memorize some information that you can’t understand or relate, your fall-back can be the link and peg system.
+
+Explaining these memory systems is out of the scope of this article, but the basic idea of the link system is to create a wacky, vivid picture relating two seemingly unrelated ideas so that a connection between them is forced. The peg system takes it a step further creating a simple phonetic system for storing numbers and dates. You can learn more about these systems here.
+
+Dirt Roads and Superhighways
+
+An effective web should heavily interlink between ideas of a similar subject, but it should also have links that extend between completely different ideas. I like to think of these two approaches like comparing dirt roads and superhighways. You need lots of cheap dirt roads to interconnect closely related areas and a few superhighways to connect distant cities.
+
+When I was learning history I would make dirt roads connecting the aspects of one particular time period and culture to itself. Linking the artistic achievements of the Song Dynasty with their political situation. But I would also make highways and superhighways. I would compare Song China to India and to the politics in the United States.
+
+Some people build a lot of dirt roads but forget the highways. They understand things well within a subject, but they can’t relate that subject outside of the classroom. Hamlet is one of my favorite literary works because in the classroom where I learned it, our teacher went to great lengths to help build superhighways. We would discuss how aspects of Hamlet related to our own life, politics and completely different areas. As a result I remember more from that play than almost any other piece of literature I studied.
+
+The End of Studying
+
+Studying should be like stretching before a big race. It isn’t a time to get in shape. I lied a bit when I wrote the title of this article. I do study. But I don’t do it for the same reasons that other people do. I study to ensure my web is functioning, not to start building it. Even when I do study, it is just a quick review, never an all-night cramming session.
+
+Some of you may read this article and start thinking that going to the trouble of drawing out diagrams and thinking hard about metaphors to practice holistic learning is going to take too much time. I believe the opposite is true. I have saved a lot of time using these techniques so that school has become just a minor time investment in the overall work I do each day. Practice holistic learning and you can spend less time cramming and more time actually learning.
+
+
+
+omar   omar omar 
